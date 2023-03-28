@@ -1,8 +1,7 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Cuom/Cuom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I'm Evi1ran, a motivated programming hobbyist.
+Focus on Full-Stack Web | Offensive Security | Machine Learning.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
