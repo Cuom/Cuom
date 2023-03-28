@@ -1,5 +1,9 @@
-# <div align="center">Hi there :wave:
+# <div align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
+
+<div align="center">:sparkling_heart: Thanks to all the open source contributors!</div>
+
+<div align="center">:newspaper: Reading & writing tech blogs whenever possible!</div>
 
 <div align=center>
 <img src="https://github.com/Cuom/Cuom/blob/main/code.gif" width="320" alt="GIF">
